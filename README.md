@@ -1,16 +1,18 @@
-### Hi there 👋
+# 1. Summary
+- I've been working as a backend developer, learning new things as I go and contributing to different stages of product development.
 
-<!--
-**Waste-arch/Waste-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 2. Education 
+- 2024 - Orsk Institute of Humanities and Technology
 
-Here are some ideas to get you started:
+# 3. Skills
+- Javascript / Typescript
+- Node.js
+- Express 
+- SQL (PostgreSQL, MySQL)
+- NoSQL (MongoDB)
+- Prisma
+- Swagger
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  # 4. Contacts
+  - [Telegram](https://t.me/egoryakimov)https://t.me/egoryakimov
