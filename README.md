@@ -12,7 +12,6 @@
 - NoSQL (MongoDB)
 - Prisma
 - Swagger
-- Docker
   
 ### 4. ⭐ Contacts ⭐
 - [Telegram](https://t.me/egoryakimov)
