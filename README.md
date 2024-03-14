@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you</h1>
 
 <p>Welcome to my page! </br> I'm Egor Yakimov, Backend Developer from <img src="https://emojigraph.org/media/twitter/flag-russia_1f1f7-1f1fa.png" width="13"/><b> Russia</b>
 <h3>Things I code with</h3>
